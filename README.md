@@ -1,7 +1,7 @@
 # INSTAL-FLOWGORITHM
 
 
-1. TUTORIAL INSTALL DLOWGORITHM
+1. TUTORIAL INSTALL FLOWGORITHM
 
 - Pertama kunjungi website resminya ( http://www.flowgorithm.org ) 
 - setelah anda berada di laman utama pada link tersebut, klik download. lihat gambar dibawah
